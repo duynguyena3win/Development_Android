@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;TabSelector/res/drawable/Start-Menu-Search-icon.png&apos; to &apos;ic_action_search.png&apos;" description="Rename resource &apos;Start-Menu-Search-icon.png&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="res/drawable/Start-Menu-Search-icon.png" name="ic_action_search.png" stamp="1383463066640" updateReferences="true"/>
+</session>

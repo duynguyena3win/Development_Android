@@ -1,0 +1,16 @@
+1382540789206	Rename resource 'browser_layout.xml'
+1382543918751	Rename type 'FileBrowser'
+1382545324564	Rename type 'File_Items'
+1382605866345	Delete element
+1382606224038	Delete element
+1382618972246	Delete elements
+1382619055369	Delete element
+1382619087352	Delete element
+1382619099537	Rename resource 'row_browser_layout.xml'
+1382628660301	Encapsulate field 'Name'
+1382628671782	Encapsulate field 'Data'
+1382628675886	Encapsulate field 'Path'
+1382628680513	Encapsulate field 'Date'
+1382628684134	Encapsulate field 'Icon'
+1382631483622	Rename field 'TextView01'
+1382632789268	Delete element
